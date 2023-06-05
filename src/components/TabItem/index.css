@@ -1,0 +1,31 @@
+.eachList-con {
+  border-bottom: 2px solid #dfe2e5;
+  margin-left: 0px;
+}
+
+.eachList-sty {
+  margin-right: 30px;
+  margin-bottom: 8px;
+}
+
+.btn-sty {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+.tab-title {
+  font-size: 16px;
+  color: #7b8794;
+}
+
+.hr-sty {
+  height: 0.5px;
+  color: #dfe2e5;
+  max-width: 140px;
+}
+
+.UnderScore {
+  border-bottom: 2px solid #2563eb;
+}

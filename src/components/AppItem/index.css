@@ -1,0 +1,31 @@
+.each-list-con {
+  background-color: #ffff;
+  border-radius: 10px;
+  padding: 12px;
+  margin-right: 12px;
+  margin-bottom: 12px;
+  height: 140px;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.AppItem-sty {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.appImg-sty {
+  height: 50px;
+  width: 50px;
+}
+
+.appName-sty {
+  font-size: 11px;
+  margin-top: 14px;
+  text-align: center;
+}
